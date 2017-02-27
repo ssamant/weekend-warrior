@@ -48,10 +48,3 @@ class Alouette
   end
 
 end
-
-# refrain = "Alouette, gentille alouette,\nAlouette, je te plumerai."
-#
-# puts Alouette.verse(3) + refrain
-# puts Alouette.verse(4)
-
-puts Alouette.sing
